@@ -7,6 +7,6 @@ Intel
 Wijsheid
 
 #background
-Woont in z'n blokhut in zijn vallei
+Woont in z'n blokhut in de vlindervallei.
 
 Heeft een vissenkom met een blauwe vinvis die hij "kleine muis" noemt.
