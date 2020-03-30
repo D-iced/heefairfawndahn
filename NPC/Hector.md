@@ -9,6 +9,7 @@ Level 15
 (dex)Behendigheid
 (str)Kracht
 (cha)Charisma
+
 #background
 Woont in z'n blokhut in de vlindervallei.
 
