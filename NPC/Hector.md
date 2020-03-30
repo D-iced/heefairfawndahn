@@ -2,10 +2,13 @@ Hector de kabouter
 
 #character Sheet
 Level 15
-Bouw
-Intel
-Wijsheid
 
+(con)Bouw
+(int)Intel
+(wis)Wijsheid
+(dex)Behendigheid
+(str)Kracht
+(cha)Charisma
 #background
 Woont in z'n blokhut in de vlindervallei.
 
