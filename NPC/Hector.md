@@ -3,6 +3,15 @@ Hector de kabouter
 #character Sheet
 Level 15
 
+14
+1
+19
+8
+8
+14
+
+
+
 > (con)Bouw
 > (int)Intel
 > (wis)Wijsheid
